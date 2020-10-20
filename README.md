@@ -1,1 +1,1 @@
-# coursera-machine-learning
+# machine-learning-project
